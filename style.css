@@ -1,0 +1,30 @@
+body
+{
+    font-family: 'Julius Sans One', sans-serif;
+}
+.heading {
+    width: 100%;
+    text-align: left; 
+    font-size: 35px;
+}
+.heading h3{
+    display: inline;
+}
+.heading button {
+    float:right;
+    border: 1px solid white;
+    font-size: 20px;
+    
+}
+#start {
+    font-size: 18px;
+}
+.modal-body {
+    width: 90%;
+    font-size: 17px
+}
+.copy_right_footer {
+    text-align: center;
+    color: white;
+
+}
